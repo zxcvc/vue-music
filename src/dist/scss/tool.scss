@@ -1,0 +1,5 @@
+// 1rem = 16px
+@function size($size){
+    $fs:16;
+    @return $size / $fs * 1rem;
+};
