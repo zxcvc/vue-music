@@ -9,7 +9,11 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
+<<<<<<< HEAD
     assetsPublicPath: '/',
+=======
+    assetsPublicPath: '/music/',
+>>>>>>> 4db9623e6abaca8cbd4a57f2fc5d9c9c732a8738
     proxyTable: {
       '/api': {
         target: 'http://m.kugou.com',
